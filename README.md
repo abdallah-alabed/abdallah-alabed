@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdallah-alabed
-- 👀 I’m interested in Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me Abd.alabed97@gmail.com
 
