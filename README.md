@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abdallah-alabed
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Working as a Software Engineer
 - 📫 How to reach me Abd.alabed97@gmail.com
 
 ## Top languages:
