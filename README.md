@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdallah-alabed
-- 🌱 I’m currently Working as a Software Engineer
+- 🌱 I’m currently Working as a Software Developer
 - 📫 How to reach me Abd.alabed97@gmail.com
 
 ## Top languages:
